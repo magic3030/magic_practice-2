@@ -5,7 +5,10 @@ function f1(){
     a2=300
     console.log(a1)
     console.log(a2)
+    alert(window.a1)
+    alert(window.a2)
 }
 console.log(data_1)
 console.log(a1)
 console.log(a2)
+alert("aaaaa")
